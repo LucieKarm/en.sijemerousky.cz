@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Volunteer face masks for Brno
+title: Volunteers sewing face masks for Brno
 
 email: sijemerousky@gmail.com
 description: 
@@ -26,9 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  
+google_analytics: UA-71749425-2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
