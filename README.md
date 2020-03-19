@@ -7,7 +7,9 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 **It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.**
 
-**Live:** Infoline is available daily 8-16 at (+420) 542 123 425.
+Od pátku 20.3. (včetně) přesouváme některá šicí místa z Husy na Provázku do jiných prostor. Prosíme dobrovolníky na šití, aby se podívali do doodle tabulky.
+
+**Live:** Since Friday 20.3. (including) we are moving some sewing places from Husa na provázku to other location. Sewing volunteers are invited to look at the Doodle.
 
 **Live:** Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
 
