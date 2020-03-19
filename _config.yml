@@ -29,8 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-  
-  google_analytics: UA-71749425-2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
