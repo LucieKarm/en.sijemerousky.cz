@@ -9,11 +9,11 @@ layout: default
 
 
 # *I need face masks – what should I do?*
-Brno is currently lacking disposable face masks for nursing homes or social workers in the field. Until the supplies resume, we will sew, collect, disinfect, pack and distribute masks, where it is needed the most. **If you are an field worker, social worker or work in the health services and you need a mask, [contact us](https://docs.google.com/forms/d/e/1FAIpQLScT2zbyMPZp4LBdd6X_dBT3eAm15iF6gO4dS5KwYaPchdvWbA/viewform?usp=sf_link).**
+Brno is currently lacking disposable face masks for nursing homes or social workers in the field. Until the supplies resume, we will sew, collect, disinfect, pack and distribute masks, where it is needed the most. **If you are a field worker, social worker or work in the health services and you need a mask, [contact us](https://docs.google.com/forms/d/e/1FAIpQLScT2zbyMPZp4LBdd6X_dBT3eAm15iF6gO4dS5KwYaPchdvWbA/viewform?usp=sf_link).**
 
 It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.
 
-**Live:** Infoline is available daily 8-16 at (+420) 542 123 425.
+**Live:** Our infoline is available daily 8-16 at (+420) 542 123 425.
 
 **Live:** Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
 
@@ -31,17 +31,17 @@ ___
 ### Help us directly in our sewing workshop!
 There are sewing machines, materials and teachers available daily from 8-16 in Husa na provázku theatre at [Zelný trh 9](https://www.google.com/maps/place/Zeln%C3%BD+trh+294%2F9,+602+00+Brno-st%C5%99ed-Brno-m%C4%9Bsto/@49.1919742,16.6057153,17z/data=!3m1!4b1!4m5!3m4!1s0x47129456b139acb9:0x141c0179007c8f40!8m2!3d49.1919707!4d16.6079093) and in Podaná kavárna café at [Hilleho 5](https://www.google.com/maps/place/Hilleho+5,+602+00+Brno-st%C5%99ed/@49.2032489,16.6095545,17z/data=!3m1!4b1!4m5!3m4!1s0x4712945c4c731865:0x6b5a6fd350d1026f!8m2!3d49.2032454!4d16.6117486). We work in 4 shifts of 20 volunteers and each shift takes 3 hours. [Come and help us!](https://www.ced-brno.cz/rousky) 
 
-## I have the fabrics and cords and I want to donate them
-Bring what you have to the gate of the Husa na Provázku theatre. Please, the fabrics have to be washed and not crumpled.
+## I want to donate fabrics and cords
+Bring what you have to the gate of the Husa na Provázku theatre. Please, make sure the fabrics are washed and ironed.
 
 ## I want to sew at home, please bring me the material 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will deliver the material. For each 5 masks sewn, you can take 1 for your use.
 
 ## I have the masks, where should I bring them?
-We will come for them, so you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), and we will contact you.
+We will come for them, so that you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), and we will contact you.
 
 ## I want to help, but I can't sew.
-- You can print out this [handout](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/90369550_209835203419075_7368684134853509120_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=1E1UI7kKN1wAX8WkdLc&_nc_ht=scontent-prg1-1.xx&oh=95fcaad9d5fd92fe20be5cf0a80b7b67&oe=5E93241D) and attach them in your neighbourhood, so the information spread as far as possible.
+- You can print out this [handout](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/90369550_209835203419075_7368684134853509120_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=1E1UI7kKN1wAX8WkdLc&_nc_ht=scontent-prg1-1.xx&oh=95fcaad9d5fd92fe20be5cf0a80b7b67&oe=5E93241D) and put it up in your neighbourhood, so the information spread as far as possible.
 - We need to collect the masks for disinfection and bring the material to our sewing teams [Volunteer drivers, come here!](https://forms.gle/gsR5SUx9Ep1wG3bt7)
 
 **Contact:** [sijemerousky@gmail.com](mailto:sijemerousky@gmail.com)
