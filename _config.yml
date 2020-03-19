@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Volunteers sewing face masks for Brno
+title: Volunteers sewing masks for Brno
 
 email: sijemerousky@gmail.com
 description: 
