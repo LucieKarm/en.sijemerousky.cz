@@ -7,16 +7,15 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 **It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.**
 
-Od pátku 20.3. (včetně) přesouváme některá šicí místa z Husy na Provázku do jiných prostor. Prosíme dobrovolníky na šití, aby se podívali do doodle tabulky.
-
 **Live:** Since Friday 20.3. (including) we are moving some sewing places from Husa na provázku to other location. Sewing volunteers are invited to look at the Doodle.
 
 **Live:** Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
 
-[How to use and handle the masks?](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89870226_237727443933011_1964651537363894272_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=dVfo8V14Zp4AX8Dj61Y&_nc_ht=scontent-prg1-1.xx&oh=dbc6920533f1e772bf43a4f1ca86ea3f&oe=5E93B966)
+## About face masks
+- [How to use and handle the masks?](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89870226_237727443933011_1964651537363894272_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=dVfo8V14Zp4AX8Dj61Y&_nc_ht=scontent-prg1-1.xx&oh=dbc6920533f1e772bf43a4f1ca86ea3f&oe=5E93B966)
 - Attention, do not "sterilise" the masks in the microwave, they might start to burn!
 
-## How should the mask look like?
+### How should the mask look like?
 - The fabric and cords have to be **100% cotton**, so we can disinfect and reuse them.
 - You can sew a DIY mask e.g. following [these instructions](https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/89338814_217960132915445_6483116063725715456_n.jpg?_nc_cat=100&_nc_sid=2d5d41&_nc_ohc=vf-v5EtQTz4AX_k4fP8&_nc_ht=scontent-prg1-1.xx&oh=cfcd929189382f2a1b607b106683d07d&oe=5E95E462).
 - There is no need to shrink the fabric in advance and the threads can also be polyester.
@@ -34,7 +33,7 @@ Bring what you have to the gate of the Husa na Provázku theatre. Please, the fa
 We will come for them, so you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), and we will contact you.
 
 ## I want to help, but I can't sew.
-- You can print out this [handout](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/90369550_209835203419075_7368684134853509120_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=1E1UI7kKN1wAX8WkdLc&_nc_ht=scontent-prg1-1.xx&oh=95fcaad9d5fd92fe20be5cf0a80b7b67&oe=5E93241D) and attach them in your neighbourhood, so the information spread as far as possible.
+- You can print out this [handout](https://drive.google.com/open?id=1iOUj7bv1X3ZxVeihBezKZF2yj1exEao4) or this one for [sewing from a t-shirt](https://drive.google.com/open?id=1uB0SYIViM08f6p8D6PbdTfhpMiwPn1HZ) and attach them in your neighbourhood, so the information spread as far as possible.
 - We need to collect the masks for disinfection and bring the material to our sewing teams [Volunteer drivers, come here!](https://forms.gle/gsR5SUx9Ep1wG3bt7)
 
 **Contact:** [sijemerousky@gmail.com](mailto:sijemerousky@gmail.com)
