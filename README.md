@@ -35,5 +35,6 @@ We will come for them, so you don't have to leave the house. [Please, let us kno
 ## I want to help, but I can't sew.
 - You can print out this [handout](https://drive.google.com/open?id=1xcGW-453TlJTP-0EfNbN9xt7ioq1ItUC) and attach them in your neighbourhood, so the information spread as far as possible.
 - We need to collect the masks for disinfection and bring the material to our sewing teams [Volunteer drivers, come here!](https://forms.gle/gsR5SUx9Ep1wG3bt7)
+- Contribute to the transparent account 2701786666/2010, please include a message: sijemerousky
 
 **Contact:** [sijemerousky@gmail.com](mailto:sijemerousky@gmail.com)
