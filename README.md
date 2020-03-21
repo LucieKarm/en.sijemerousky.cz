@@ -21,7 +21,10 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 - There is no need to shrink the fabric in advance and the threads can also be polyester.
 
 ## Help us directly in our sewing workshop!
-There are sewing machines, materials and teachers available daily from 8-16 in Husa na provázku theatre at [Zelný trh 9](https://www.google.com/maps/place/Zeln%C3%BD+trh+294%2F9,+602+00+Brno-st%C5%99ed-Brno-m%C4%9Bsto/@49.1919742,16.6057153,17z/data=!3m1!4b1!4m5!3m4!1s0x47129456b139acb9:0x141c0179007c8f40!8m2!3d49.1919707!4d16.6079093) and in Podaná kavárna café at [Hilleho 5](https://www.google.com/maps/place/Hilleho+5,+602+00+Brno-st%C5%99ed/@49.2032489,16.6095545,17z/data=!3m1!4b1!4m5!3m4!1s0x4712945c4c731865:0x6b5a6fd350d1026f!8m2!3d49.2032454!4d16.6117486). We work in 4 shifts of 20 volunteers and each shift takes 3 hours. [Come and help us!](https://www.ced-brno.cz/rousky) 
+
+V Huse na provázku na Zelném trhu 9, v Podané kavárně na Hilleho 5, v café Industra na Masné 9 a v galerii Off Format na Gorkého 41 jsou připravené stroje, materiál i lidé, kteří vás zaučí.
+
+There are sewing machines, materials and teachers available daily in Husa na provázku theatre at Zelný trh 9, in Podaná kavárna café at Hilleho 5, in Cafe Industra at Masná 9 and in Off Format Gallery at Gorkého 41. [Come and help us!](https://www.ced-brno.cz/rousky) 
 
 ## I have the fabrics and cords and I want to donate them
 Bring what you have to the gate of the Husa na Provázku theatre. Please, the fabrics have to be washed and not crumpled.
