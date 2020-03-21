@@ -17,7 +17,7 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 ### How should the mask look like?
 - The fabric and cords have to be **100% cotton**, so we can disinfect and reuse them.
-- You can sew a DIY mask e.g. following [these instructions](https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/89338814_217960132915445_6483116063725715456_n.jpg?_nc_cat=100&_nc_sid=2d5d41&_nc_ohc=vf-v5EtQTz4AX_k4fP8&_nc_ht=scontent-prg1-1.xx&oh=cfcd929189382f2a1b607b106683d07d&oe=5E95E462).
+- You can sew a DIY mask e.g. following [these instructions](https://drive.google.com/open?id=1xcGW-453TlJTP-0EfNbN9xt7ioq1ItUC).
 - There is no need to shrink the fabric in advance and the threads can also be polyester.
 
 ## Help us directly in our sewing workshop!
@@ -33,7 +33,7 @@ Bring what you have to the gate of the Husa na Provázku theatre. Please, the fa
 We will come for them, so you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), and we will contact you.
 
 ## I want to help, but I can't sew.
-- You can print out this [handout](https://drive.google.com/open?id=1iOUj7bv1X3ZxVeihBezKZF2yj1exEao4) or this one for [sewing from a t-shirt](https://drive.google.com/open?id=1uB0SYIViM08f6p8D6PbdTfhpMiwPn1HZ) and attach them in your neighbourhood, so the information spread as far as possible.
+- You can print out this [handout](https://drive.google.com/open?id=1xcGW-453TlJTP-0EfNbN9xt7ioq1ItUC) and attach them in your neighbourhood, so the information spread as far as possible.
 - We need to collect the masks for disinfection and bring the material to our sewing teams [Volunteer drivers, come here!](https://forms.gle/gsR5SUx9Ep1wG3bt7)
 
 **Contact:** [sijemerousky@gmail.com](mailto:sijemerousky@gmail.com)
