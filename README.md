@@ -1,17 +1,8 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-
-
-	
 [Czech version](https://sijemerousky.cz/)
-	
+
 # Face mask sewing for hospitals, social workers and carers
 ## in Brno and its greater area
-	
+
 Brno is currently lacking disposable face masks for nursing homes or social workers in the field. Until the supplies resume, we will sew, collect, disinfect, pack and distribute masks, where it is needed the most. If you are an field worker, social worker or work in the health services and you need a mask, [contact us](https://docs.google.com/forms/d/e/1FAIpQLScT2zbyMPZp4LBdd6X_dBT3eAm15iF6gO4dS5KwYaPchdvWbA/viewform?usp=sf_link).
 
 **It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.**
@@ -50,4 +41,3 @@ We will come for them, so you don't have to leave the house. [Please, let us kno
 - Contribute to the transparent account 2701786666/2010, please include a message: sijemerousky
 
 **Contact:** [sijemerousky@gmail.com](mailto:sijemerousky@gmail.com)
-
