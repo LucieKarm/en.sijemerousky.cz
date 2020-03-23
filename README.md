@@ -20,9 +20,17 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 ## Help us directly in our sewing workshop!
 
-V Huse na provázku na Zelném trhu 9, v Podané kavárně na Hilleho 5, v café Industra na Masné 9 a v galerii Off Format na Gorkého 41 jsou připravené stroje, materiál i lidé, kteří vás zaučí.
+Over the past week, several volunteer sewing workshops have been established in Brno and its surroundings, where the material for face masks goes.
 
-There are sewing machines, materials and teachers available daily in Husa na provázku theatre at Zelný trh 9, in Podaná kavárna café at Hilleho 5, in Cafe Industra at Masná 9 and in Off Format Gallery at Gorkého 41. [Come and help us!](https://www.ced-brno.cz/rousky) 
+- Husa na provázku, Zelný trh 9
+- Podaná kavárna, Hilleho 5
+- Industra, Mastná 9
+- IQ Roma, Bratislavská 7
+- Divadlo Polárka, Tučkova 34
+- Brno šije, Veveří 39
+- Galerie OFF FORMAT, Gorkého 41
+
+There are sewing machines, materials and teachers available daily. [Come and help us!](https://www.ced-brno.cz/rousky) 
 
 ## I have the fabrics and/or cords and I want to donate them
 [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will send a driver for them.
