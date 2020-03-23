@@ -7,9 +7,7 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 **It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.**
 
-**Live:** We need more fabrics! Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
-
-**Live:** There are many of you who help. We try to contact you as soon as possible, but it may take up to two days. Thank you for your understanding.
+**Live:** We need more fabrics! Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdmHxPWY3-xusaqLa7ixAWq3ss5JsBEoZo0ldEgsnW3hOFj3g/viewform?usp=sf_link).
 
 ## About face masks
 - [How to use and handle the masks?](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89870226_237727443933011_1964651537363894272_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=dVfo8V14Zp4AX8Dj61Y&_nc_ht=scontent-prg1-1.xx&oh=dbc6920533f1e772bf43a4f1ca86ea3f&oe=5E93B966)
@@ -35,13 +33,13 @@ Over the past week, several volunteer sewing workshops have been established in 
 There are sewing machines, materials and teachers available daily. [Come and help us!](https://www.ced-brno.cz/rousky) 
 
 ## I have the fabrics and/or cords and I want to donate them
-[Let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will send a driver for them.
+[Let us know](https://docs.google.com/forms/d/e/1FAIpQLSdmHxPWY3-xusaqLa7ixAWq3ss5JsBEoZo0ldEgsnW3hOFj3g/viewform?usp=sf_link), we will send a driver for them.
 
 ## I want to sew at home, please bring me the material 
-[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will deliver the material. For each 5 masks sewn, you can take 1 for your use.
+[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSdmHxPWY3-xusaqLa7ixAWq3ss5JsBEoZo0ldEgsnW3hOFj3g/viewform?usp=sf_link), we will deliver the material. For each 5 masks sewn, you can take 1 for your use. There are many of you who help. We try to contact you as soon as possible, but **it may take up to two days**. Thank you for your understanding.
 
 ## I have the masks, where should I bring them?
-We will come for them, so you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), and we will contact you.
+We will come for them, so you don't have to leave the house. [Please, let us know](https://docs.google.com/forms/d/e/1FAIpQLSdmHxPWY3-xusaqLa7ixAWq3ss5JsBEoZo0ldEgsnW3hOFj3g/viewform?usp=sf_link), and we will contact you.
 
 ## I want to help, but I can't sew.
 - You can print out this [handout](https://drive.google.com/file/d/1jOadZlnYxfrnmT8MQqnZtCpBY7mKhgs1/view?usp=sharing) and attach them in your neighbourhood, so the information spread as far as possible.
