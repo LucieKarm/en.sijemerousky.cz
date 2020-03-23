@@ -9,6 +9,8 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 **Live:** We need more fabrics! Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
 
+**Live:** There are many of you who help. We try to contact you as soon as possible, but it may take up to two days. Thank you for your understanding.
+
 ## About face masks
 - [How to use and handle the masks?](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89870226_237727443933011_1964651537363894272_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=dVfo8V14Zp4AX8Dj61Y&_nc_ht=scontent-prg1-1.xx&oh=dbc6920533f1e772bf43a4f1ca86ea3f&oe=5E93B966)
 - Attention, do not "sterilise" the masks in the microwave, they might start to burn!
