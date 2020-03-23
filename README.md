@@ -7,9 +7,7 @@ Brno is currently lacking disposable face masks for nursing homes or social work
 
 **It is not in our capabilities to sew for individuals; the priority is given to the organisations that care for the people at risk. Thank you for your understanding.**
 
-**Live:** Since Friday 20.3. (including) we are moving some sewing places from Husa na provázku to other location. Sewing volunteers are invited to look at the Doodle.
-
-**Live:** Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
+**Live:** We need more fabrics! Do you want to sew, but lack the material? We will deliver it to you, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link).
 
 ## About face masks
 - [How to use and handle the masks?](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89870226_237727443933011_1964651537363894272_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=dVfo8V14Zp4AX8Dj61Y&_nc_ht=scontent-prg1-1.xx&oh=dbc6920533f1e772bf43a4f1ca86ea3f&oe=5E93B966)
@@ -26,8 +24,8 @@ V Huse na provázku na Zelném trhu 9, v Podané kavárně na Hilleho 5, v café
 
 There are sewing machines, materials and teachers available daily in Husa na provázku theatre at Zelný trh 9, in Podaná kavárna café at Hilleho 5, in Cafe Industra at Masná 9 and in Off Format Gallery at Gorkého 41. [Come and help us!](https://www.ced-brno.cz/rousky) 
 
-## I have the fabrics and cords and I want to donate them
-Bring what you have to the gate of the Husa na Provázku theatre. Please, the fabrics have to be washed and not crumpled.
+## I have the fabrics and/or cords and I want to donate them
+[Let us know](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will send a driver for them.
 
 ## I want to sew at home, please bring me the material 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSdjZqHkglV2Gdva7ELOEVB6H6uPRfy8BAUKaHk2O_XiOAZpKw/viewform?usp=sf_link), we will deliver the material. For each 5 masks sewn, you can take 1 for your use.
